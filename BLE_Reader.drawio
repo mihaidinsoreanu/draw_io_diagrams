@@ -1,9 +1,56 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0" version="29.2.2">
   <diagram name="Page-1" id="gtHvKYwZNPWSz38KkuE6">
-    <mxGraphModel>
+    <mxGraphModel dx="1042" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="VzWQN_qNt7yXrcu69WMB-4" edge="1" parent="1" source="VzWQN_qNt7yXrcu69WMB-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="VzWQN_qNt7yXrcu69WMB-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VzWQN_qNt7yXrcu69WMB-6" edge="1" parent="1" source="VzWQN_qNt7yXrcu69WMB-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="VzWQN_qNt7yXrcu69WMB-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VzWQN_qNt7yXrcu69WMB-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="First Run Screen App Overview" vertex="1">
+          <mxGeometry height="60" width="120" x="270" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="VzWQN_qNt7yXrcu69WMB-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Permissions Explanation" vertex="1">
+          <mxGeometry height="60" width="120" x="480" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="VzWQN_qNt7yXrcu69WMB-11" edge="1" parent="1" source="VzWQN_qNt7yXrcu69WMB-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="VzWQN_qNt7yXrcu69WMB-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VzWQN_qNt7yXrcu69WMB-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="App Main Screen" vertex="1">
+          <mxGeometry height="60" width="120" x="270" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="VzWQN_qNt7yXrcu69WMB-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Bolt History" vertex="1">
+          <mxGeometry height="60" width="120" x="270" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="VzWQN_qNt7yXrcu69WMB-12" edge="1" parent="1" source="VzWQN_qNt7yXrcu69WMB-5" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="VzWQN_qNt7yXrcu69WMB-13" value="Settings">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="400" y="370" as="sourcePoint" />
+            <mxPoint x="450" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VzWQN_qNt7yXrcu69WMB-15" edge="1" parent="1" source="VzWQN_qNt7yXrcu69WMB-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="VzWQN_qNt7yXrcu69WMB-14" value="Login">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VzWQN_qNt7yXrcu69WMB-17" edge="1" parent="1" source="VzWQN_qNt7yXrcu69WMB-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="VzWQN_qNt7yXrcu69WMB-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="580" y="280" />
+              <mxPoint x="580" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VzWQN_qNt7yXrcu69WMB-13" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/User_Interface-2522/hamburger-menu-727.svg" value="" vertex="1">
+          <mxGeometry height="60" width="60" x="480" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="VzWQN_qNt7yXrcu69WMB-14" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="Actor" vertex="1">
+          <mxGeometry height="60" width="30" x="660" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="VzWQN_qNt7yXrcu69WMB-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Data Persistence Duration: 1d, 5d, 30d" vertex="1">
+          <mxGeometry height="60" width="120" x="600" y="360" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
