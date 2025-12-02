@@ -42,7 +42,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VzWQN_qNt7yXrcu69WMB-13" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/User_Interface-2522/hamburger-menu-727.svg" value="" vertex="1">
+        <mxCell id="VzWQN_qNt7yXrcu69WMB-13" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/User_Interface-2522/hamburger-menu-727.svg" value="Hamburger Menu" vertex="1">
           <mxGeometry height="60" width="60" x="480" y="250" as="geometry" />
         </mxCell>
         <mxCell id="VzWQN_qNt7yXrcu69WMB-14" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="Actor" vertex="1">
